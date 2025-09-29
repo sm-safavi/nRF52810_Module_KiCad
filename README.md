@@ -7,6 +7,7 @@ enabling smartphones to provision, commission, configure and control mesh nodes.
 in simplified pairing and payment solutions. It has numerous digital peripherals and interfaces such as ADC, PDM, PWM,
 I2C and I2S for many applications. It features low power consumption, small size, robust connection distance, and rigid
 reliability. 1.27-mm pitch stamp stick package for easy assembling and cost-effective PCB design.
+
 <img width="286" height="445" alt="image" src="https://github.com/user-attachments/assets/b21a3fc3-168b-46b4-8dac-3b8565e45567" />
 <img width="574" height="473" alt="image" src="https://github.com/user-attachments/assets/d36938c3-e4ba-4a4d-bf3b-ecfca4dc8291" />
 
